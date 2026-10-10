@@ -1,0 +1,9 @@
+creatives/
+data/warehouse/
+*.duckdb
+*.duckdb.wal
+
+.venv/
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
